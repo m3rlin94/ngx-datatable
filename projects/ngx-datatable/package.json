@@ -1,6 +1,6 @@
 {
   "name": "@m3rlin94/ngx-datatable",
-  "version": "1.0.0",
+  "version": "23.0.1",
   "description": "ngx-datatable is an Angular table grid component for presenting large and complex data.",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
