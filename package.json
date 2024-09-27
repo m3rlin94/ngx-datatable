@@ -1,6 +1,9 @@
 {
   "name": "ngx-datatable",
   "version": "0.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -28,7 +31,6 @@
     "publish": "run-s publish:lib deploy-docs",
     "prepublishOnly": "echo \"This is the workspace -- you probably meant run 'npm run publish'.\" && exit 1"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "~17.0.6",
     "@angular/cdk": "~17.3.0",
