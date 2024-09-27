@@ -2,6 +2,7 @@
   "name": "ngx-datatable",
   "version": "0.0.0",
   "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "scripts": {
@@ -25,7 +26,7 @@
     "deploy-docs": "angular-cli-ghpages --dir ./dist/ngx-datatable",
     "package": "run-s build:lib:prod copy-files build:css",
     "prepublish:lib": "run-s ci package",
-    "publish:lib": "npm publish ./dist/ngx-datatable",
+    "publish:lib": "npm publish ./dist/ngx-datatable --access public",
     "prepack": "npm run package",
     "pack": "npm pack ./dist/ngx-datatable/",
     "publish": "run-s publish:lib deploy-docs",

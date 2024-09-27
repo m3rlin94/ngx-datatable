@@ -10,7 +10,7 @@ import { Employee } from '../data.model';
         Custom Footer
         <small>
           <a
-            href="https://github.com/siemens/ngx-datatable/blob/master/src/app/basic/footer.component.ts"
+            href="https://github.com/m3rlin94/ngx-datatable/blob/master/src/app/basic/footer.component.ts"
             target="_blank"
           >
             Source

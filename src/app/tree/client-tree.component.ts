@@ -10,7 +10,7 @@ import { Employee } from '../data.model';
         Flex Column Width Distribution
         <small>
           <a
-            href="https://github.com/siemens/ngx-datatable/blob/master/src/app/tree/client-tree.component.ts"
+            href="https://github.com/m3rlin94/ngx-datatable/blob/master/src/app/tree/client-tree.component.ts"
             target="_blank"
           >
             Source

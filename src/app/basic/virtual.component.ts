@@ -10,7 +10,7 @@ import { FullEmployee } from '../data.model';
         Virtual Scrolling with 10k Rows
         <small>
           <a
-            href="https://github.com/siemens/ngx-datatable/blob/master/src/app/basic/virtual.component.ts"
+            href="https://github.com/m3rlin94/ngx-datatable/blob/master/src/app/basic/virtual.component.ts"
             target="_blank"
           >
             Source

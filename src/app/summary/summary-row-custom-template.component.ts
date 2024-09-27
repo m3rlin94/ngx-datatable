@@ -10,7 +10,7 @@ import { Employee } from '../data.model';
         Summary Row with Custom Template
         <small>
           <a
-            href="https://github.com/siemens/ngx-datatable/blob/master/src/app/summary/summary-row-custom-template.component.ts"
+            href="https://github.com/m3rlin94/ngx-datatable/blob/master/src/app/summary/summary-row-custom-template.component.ts"
           >
             Source
           </a>

@@ -20,7 +20,7 @@ interface PageInfo {
         Virtual Server-side Paging
         <small>
           <a
-            href="https://github.com/siemens/ngx-datatable/blob/master/src/app/paging/paging-virtual.component.ts"
+            href="https://github.com/m3rlin94/ngx-datatable/blob/master/src/app/paging/paging-virtual.component.ts"
             target="_blank"
           >
             Source

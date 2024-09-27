@@ -10,7 +10,7 @@ import { Employee } from '../data.model';
         TemplateRef via Column Property
         <small>
           <a
-            href="https://github.com/siemens/ngx-datatable/blob/master/src/app/templates/template-obj.component.ts"
+            href="https://github.com/m3rlin94/ngx-datatable/blob/master/src/app/templates/template-obj.component.ts"
             target="_blank"
           >
             Source

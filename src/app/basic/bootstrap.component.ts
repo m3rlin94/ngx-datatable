@@ -10,7 +10,7 @@ import { Employee } from '../data.model';
         Bootstrap Theme
         <small>
           <a
-            href="https://github.com/siemens/ngx-datatable/blob/master/src/app/basic/bootstrap.component.ts"
+            href="https://github.com/m3rlin94/ngx-datatable/blob/master/src/app/basic/bootstrap.component.ts"
             target="_blank"
           >
             Source

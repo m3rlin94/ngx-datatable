@@ -10,7 +10,7 @@ import { Employee } from '../data.model';
         Fluid Row Heights
         <small>
           <a
-            href="https://github.com/siemens/ngx-datatable/blob/master/src/app/basic/basic-auto.component.ts"
+            href="https://github.com/m3rlin94/ngx-datatable/blob/master/src/app/basic/basic-auto.component.ts"
             target="_blank"
           >
             Source

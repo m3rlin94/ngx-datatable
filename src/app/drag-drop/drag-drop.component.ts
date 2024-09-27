@@ -10,7 +10,7 @@ import { ColumnMode } from 'projects/ngx-datatable/src/public-api';
         Drag Drop Using Angular CDK
         <small>
           <a
-            href="https://github.com/siemens/ngx-datatable/blob/master/src/app/drag-drop/drag-drop.component.ts"
+            href="https://github.com/m3rlin94/ngx-datatable/blob/master/src/app/drag-drop/drag-drop.component.ts"
             target="_blank"
           >
             Source

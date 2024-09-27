@@ -10,7 +10,7 @@ import { FullEmployee } from '../data.model';
         Dynamic Height w/ Virtual Scrolling
         <small>
           <a
-            href="https://github.com/siemens/ngx-datatable/blob/master/src/app/basic/dynamic-height.component.ts"
+            href="https://github.com/m3rlin94/ngx-datatable/blob/master/src/app/basic/dynamic-height.component.ts"
             target="_blank"
           >
             Source

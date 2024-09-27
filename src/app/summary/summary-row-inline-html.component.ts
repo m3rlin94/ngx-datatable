@@ -10,7 +10,7 @@ import { Employee } from '../data.model';
         Inline HTML template
         <small>
           <a
-            href="https://github.com/siemens/ngx-datatable/blob/master/src/app/summary/summary-row-inline-html.component.ts"
+            href="https://github.com/m3rlin94/ngx-datatable/blob/master/src/app/summary/summary-row-inline-html.component.ts"
           >
             Source
           </a>

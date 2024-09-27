@@ -1,10 +1,10 @@
 # ngx-datatable
 
-[![Join the chat at https://gitter.im/siemens/ngx-datatable](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/siemens/ngx-datatable?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Code Climate](https://codeclimate.com/github/siemens/ngx-datatable/badges/gpa.svg)](https://codeclimate.com/github/siemens/ngx-datatable)
-[![Test Coverage](https://codeclimate.com/github/siemens/ngx-datatable/badges/coverage.svg)](https://codeclimate.com/github/siemens/ngx-datatable/coverage)
+[![Join the chat at https://gitter.im/m3rlin94/ngx-datatable](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/m3rlin94/ngx-datatable?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Code Climate](https://codeclimate.com/github/m3rlin94/ngx-datatable/badges/gpa.svg)](https://codeclimate.com/github/m3rlin94/ngx-datatable)
+[![Test Coverage](https://codeclimate.com/github/m3rlin94/ngx-datatable/badges/coverage.svg)](https://codeclimate.com/github/m3rlin94/ngx-datatable/coverage)
 [![npm version](https://badge.fury.io/js/%40siemens%2Fngx-datatable.svg)](https://badge.fury.io/js/%40siemens%2Fngx-datatable)
-[![npm downloads](https://img.shields.io/npm/dm/@m3rlin/ngx-datatable.svg)](https://npmjs.org/@m3rlin/ngx-datatable)
+[![npm downloads](https://img.shields.io/npm/dm/@m3rlin94/ngx-datatable.svg)](https://npmjs.org/@m3rlin94/ngx-datatable)
 
 > **Note:** This project is a fork of [`swimlane/ngx-datatable`](https://github.com/swimlane/ngx-datatable)
 > which we try to maintain further with bug-fixes and new features due to the
@@ -14,9 +14,9 @@
 
 It was built for modern browsers using _TypeScript, CSS3 and HTML5_ and Angular `8.0.0`. This is the sister project of the [angular-data-table](https://github.com/swimlane/angular-data-table) that is designed for Angular 1.x.
 
-Check out the [documentation](https://siemens-com.gitbook.io/ngx-datatable/) & [demos](http://siemens.github.io/ngx-datatable/) for more information!
+Check out the [documentation](https://m3rlin94-com.gitbook.io/ngx-datatable/) & [demos](http://m3rlin94.github.io/ngx-datatable/) for more information!
 
-See the [changelog](https://github.com/siemens/ngx-datatable/blob/master/docs/changelog.md) for recent changes.
+See the [changelog](https://github.com/m3rlin94/ngx-datatable/blob/master/docs/changelog.md) for recent changes.
 
 ## Features
 
@@ -38,10 +38,10 @@ See the [changelog](https://github.com/siemens/ngx-datatable/blob/master/docs/ch
 
 ## Installation
 
-To use ngx-datatable in your project install it via [npm](https://www.npmjs.com/package/@m3rlin/ngx-datatable):
+To use ngx-datatable in your project install it via [npm](https://www.npmjs.com/package/@m3rlin94/ngx-datatable):
 
 ```
-npm i @m3rlin/ngx-datatable --save
+npm i @m3rlin94/ngx-datatable --save
 ```
 
 ## Credits

@@ -10,7 +10,7 @@ import { Employee } from '../data.model';
         Selection Callback to Disable Selections
         <small>
           <a
-            href="https://github.com/siemens/ngx-datatable/blob/master/src/app/selection/selection-disabled.component.ts"
+            href="https://github.com/m3rlin94/ngx-datatable/blob/master/src/app/selection/selection-disabled.component.ts"
             target="_blank"
           >
             Source

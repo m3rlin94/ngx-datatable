@@ -11,7 +11,7 @@ import { Employee } from '../data.model';
         Client-side Search and Filtering
         <small>
           <a
-            href="https://github.com/siemens/ngx-datatable/blob/master/src/app/basic/filter.component.ts"
+            href="https://github.com/m3rlin94/ngx-datatable/blob/master/src/app/basic/filter.component.ts"
             target="_blank"
           >
             Source

@@ -10,7 +10,7 @@ import { Employee } from '../data.model';
         Live Data Demo
         <small>
           <a
-            href="https://github.com/siemens/ngx-datatable/blob/master/src/app/basic/live.component.ts"
+            href="https://github.com/m3rlin94/ngx-datatable/blob/master/src/app/basic/live.component.ts"
             target="_blank"
           >
             Source

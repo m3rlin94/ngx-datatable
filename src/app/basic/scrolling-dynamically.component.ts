@@ -10,7 +10,7 @@ import { Employee } from '../data.model';
         Dynamic Vertical Scrolling
         <small>
           <a
-            href="https://github.com/siemens/ngx-datatable/blob/master/src/app/basic/scrolling-dynamically.component.ts"
+            href="https://github.com/m3rlin94/ngx-datatable/blob/master/src/app/basic/scrolling-dynamically.component.ts"
             target="_blank"
           >
             Source

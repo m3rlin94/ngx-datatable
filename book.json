@@ -15,7 +15,7 @@
   ],
   "pluginsConfig": {
     "github": {
-      "url": "https://github.com/siemens/ngx-datatable/"
+      "url": "https://github.com/m3rlin94/ngx-datatable/"
     },
     "theme-api": {
       "theme": "dark"
@@ -25,7 +25,7 @@
       "type": "tags"
     },
     "githubcontributors": {
-      "githubOwner": "siemens",
+      "githubOwner": "m3rlin94",
       "githubRepository": "ngx-datatable"
     }
   }
