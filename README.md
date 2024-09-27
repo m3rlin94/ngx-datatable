@@ -4,7 +4,7 @@
 [![Code Climate](https://codeclimate.com/github/siemens/ngx-datatable/badges/gpa.svg)](https://codeclimate.com/github/siemens/ngx-datatable)
 [![Test Coverage](https://codeclimate.com/github/siemens/ngx-datatable/badges/coverage.svg)](https://codeclimate.com/github/siemens/ngx-datatable/coverage)
 [![npm version](https://badge.fury.io/js/%40siemens%2Fngx-datatable.svg)](https://badge.fury.io/js/%40siemens%2Fngx-datatable)
-[![npm downloads](https://img.shields.io/npm/dm/@siemens/ngx-datatable.svg)](https://npmjs.org/@siemens/ngx-datatable)
+[![npm downloads](https://img.shields.io/npm/dm/@m3rlin/ngx-datatable.svg)](https://npmjs.org/@m3rlin/ngx-datatable)
 
 > **Note:** This project is a fork of [`swimlane/ngx-datatable`](https://github.com/swimlane/ngx-datatable)
 > which we try to maintain further with bug-fixes and new features due to the
@@ -38,10 +38,10 @@ See the [changelog](https://github.com/siemens/ngx-datatable/blob/master/docs/ch
 
 ## Installation
 
-To use ngx-datatable in your project install it via [npm](https://www.npmjs.com/package/@siemens/ngx-datatable):
+To use ngx-datatable in your project install it via [npm](https://www.npmjs.com/package/@m3rlin/ngx-datatable):
 
 ```
-npm i @siemens/ngx-datatable --save
+npm i @m3rlin/ngx-datatable --save
 ```
 
 ## Credits

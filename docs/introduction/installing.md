@@ -1,9 +1,9 @@
 # Installing
 
 You can grab the latest release from the [Releases Page](https://github.com/siemens/ngx-datatable/releases)
-in Github or via [NPM](https://www.npmjs.com/package/@siemens/ngx-datatable).
+in Github or via [NPM](https://www.npmjs.com/package/@m3rlin/ngx-datatable).
 
-- `npm install @siemens/ngx-datatable`
+- `npm install @m3rlin/ngx-datatable`
 
 ### CSS
 
